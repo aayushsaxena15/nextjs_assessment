@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app --typescript`].
+For a detailed system design explanation, refer to "System Design for Voyce.me" document in this repo.
 
 ## Next.JS Dashboard
 
